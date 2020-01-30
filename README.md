@@ -1,4 +1,6 @@
 # Machine learning portfolio
-Series of machine learning projects 
+This directory contains a series of machine learning focused projects that I've worked on. 
+
+* Kaggle Titanic Submission
 
 Developed by Ahmed Kayal
